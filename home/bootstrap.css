@@ -27,7 +27,6 @@
   margin: 150px;
   text-align: center;
   border: 20px double white;
-  background-color: white;
   
 }
 
@@ -36,7 +35,7 @@
   display: inline-block;
 }
 
-/* container */
+/* image */
 .image {
   width: 300px;
   height: 300px;
