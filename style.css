@@ -1,4 +1,7 @@
 body {
     background-image: url("https://images.unsplash.com/photo-1530669244764-0909211cd8e8?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=668&q=80");
     background-size: cover;
+    font-family: 'Comic Neue', cursive;
 }
+
+/* containers */
