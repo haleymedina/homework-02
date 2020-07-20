@@ -1,0 +1,21 @@
+/* jumbotron */
+.jumbotron {
+  margin: 150px;
+  text-align: center;
+  border: 20px double white;
+  
+}
+
+.display-4 {
+  width: 300px;
+  display: inline-block;
+}
+
+/* image */
+.image {
+  width: 300px;
+  height: 300px;
+  display: inline-block;
+  margin: 20px;
+}
+
